@@ -6,5 +6,11 @@
 - integracja z modelem 
 - zapis predyckji 
 - możlwiość nanoszenia korekty przez lekarza na zdjecia 
-- ręczne zaznaczenie obszaru  ( opcjonalnie ) 
+
+- ręczne zaznaczenie obszaru  ( opcjonalnie ) dla nowych pryzpadkó 
+- poprawki w zbieraniu zdejc 
 - udostępnianie zdjęć wraz z propozycja naniesionej maski do badan poprzez wgranie ( zbieranie dalszych danych )
+
+
+# Konstrukcja piplinu 
+- 
