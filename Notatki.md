@@ -14,3 +14,9 @@
 
 # Konstrukcja piplinu 
 - 
+
+
+
+
+# nnUnet jako wzór
+- https://github.com/KurtLabUW/brats2023_updated?tab=readme-ov-file
