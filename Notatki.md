@@ -20,3 +20,4 @@
 
 # nnUnet jako wzór
 - https://github.com/KurtLabUW/brats2023_updated?tab=readme-ov-file
+- https://arxiv.org/pdf/2402.07008
